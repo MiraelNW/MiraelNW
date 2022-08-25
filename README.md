@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#42F75FF&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=180&section=header&fontSize=30&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=500&color=F7B115&width=435&lines=Buenos+dias;My+name+is+Mihail;I'm+future+android-developer;Say+good+luck+to+me))](https://git.io/typing-svg)
 
@@ -54,6 +54,7 @@ I am a student <img src="https://media.giphy.com/media/JU6TzB6O9QCju/giphy.gif" 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=500&color=F7B4D0&width=435&lines=Bye+Bye(company+please+text+me))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=500&color=blue&width=435&lines=Bye+Bye(company+please+text+me))](https://git.io/typing-svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=#42F75FF&rotate=90">
+![Phanatagama](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
