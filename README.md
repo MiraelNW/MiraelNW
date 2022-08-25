@@ -1,5 +1,6 @@
-### Hi there 👋, my name is Mihail.
-## I'm future Android-developer.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#42F75FF&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=500&color=F7B115&width=435&lines=Buenos+dias;My+name+is+Mihail;I'm+future+android-developer;Say+good+luck+to+me))](https://git.io/typing-svg)
 
 
 <div id="header" align="center">
@@ -7,7 +8,7 @@
 </div>
 
 
-<div id="badges">
+<div id="badges" align="center">
 <a href="https://vk.com/yaseldeda69">
   <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vkontakte Badge"/>
 </a>
@@ -50,4 +51,9 @@ I am a student <img src="https://media.giphy.com/media/JU6TzB6O9QCju/giphy.gif" 
 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiraelNW&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=500&color=F7B4D0&width=435&lines=Bye+Bye(company+please+text+me))](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=#42F75FF&rotate=90">
