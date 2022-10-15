@@ -52,7 +52,7 @@ I am a student <img src="https://media.giphy.com/media/JU6TzB6O9QCju/giphy.gif" 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiraelNW&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=2&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiraelNW&layout=compact&langs_count=5&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=500&color=blue&width=435&lines=Bye+Bye(company+please+text+me))](https://git.io/typing-svg)
 
