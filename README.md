@@ -31,8 +31,6 @@
 
 ## :nerd_face: About me :
 I am a student <img src="https://media.giphy.com/media/JU6TzB6O9QCju/giphy.gif" width="30" height="20"> from Novosibirsk
-- :clown_face: i dont work,but i will be a president in future...or in my dreams...
-
 - :man_student: Learning Android developing.
 
 - :astronaut: In my free time, I train algoritms .
